@@ -255,7 +255,7 @@
           .col-lg-8.mb-3.mb-lg-0
             h2.mb-4(data-aos="flip-up") Valoración de la prueba 
             p.mb-4(data-aos="fade-right") En el PDF Valoración de la prueba, se analiza cómo el sistema procesal civil colombiano, exige al juez evaluar las pruebas conforme a la sana crítica, garantizando una apreciación racional, objetiva y motivada, que respete el debido proceso y asegure decisiones judiciales justas y verificables.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_2.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
